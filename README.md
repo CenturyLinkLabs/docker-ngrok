@@ -1,3 +1,7 @@
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 ngrok for Docker
 ============
 [![](https://badge.imagelayers.io/centurylink/ngrok.svg)](https://imagelayers.io/?images=centurylink/ngrok:latest 'Get your own badge on imagelayers.io')
